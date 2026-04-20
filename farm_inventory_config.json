@@ -17,8 +17,12 @@
   "land": {
     "pasture_hectares": 150,
     "arable_hectares": 50,
-    "arable_crops": ["Rapeseed (Ton)", "Buckwheat (Ton)", "Potatoes (Deciton)"],
+    "arable_crops": [
+      "Rapeseed (Ton)",
+      "Buckwheat (Ton)",
+      "Potatoes (Deciton)"
+    ],
     "silo_capacity_tons": 250
   },
-  "monthly_maintenance_costs_pln": 15000
+  "monthly_maintenance_costs_pln": 90000
 }
