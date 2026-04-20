@@ -17,7 +17,7 @@
   "land": {
     "pasture_hectares": 150,
     "arable_hectares": 50,
-    "arable_crops": ["Rzepak (Tona)", "Gryka (Tona)", "Ziemniaki (Decytona)"],
+    "arable_crops": ["Rapeseed (Ton)", "Buckwheat (Ton)", "Potatoes (Deciton)"],
     "silo_capacity_tons": 250
   },
   "monthly_maintenance_costs_pln": 15000

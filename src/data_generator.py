@@ -48,46 +48,46 @@ def generate_mock_data(session_id: str):
 
     # ── Dynamic state ───────────────────────────────────────────────────────
     current_cattle = cattle_n
-    silos = {"Rzepak (Tona)": 0.0, "Gryka (Tona)": 0.0, "Ziemniaki (Decytona)": 0.0}
+    silos = {"Rapeseed (Ton)": 0.0, "Buckwheat (Ton)": 0.0, "Potatoes (Deciton)": 0.0}
     stables_occupied = STABLE_N  # updated each month
 
     # ── Quick price helpers from GUS module ─────────────────────────────────
-    P_rzepak_skup    = gus["Rzepak (Tona)"]["skup_pln_per_t"]
-    P_rzepak_rhd     = P_rzepak_skup * gus["Rzepak (Tona)"]["retail_premium"]
-    C_rzepak         = lambda: _price_band(P_rzepak_skup * gus["Rzepak (Tona)"]["cost_ratio"])
+    P_rzepak_skup    = gus["Rapeseed (Ton)"]["skup_pln_per_t"]
+    P_rzepak_rhd     = P_rzepak_skup * gus["Rapeseed (Ton)"]["retail_premium"]
+    C_rzepak         = lambda: _price_band(P_rzepak_skup * gus["Rapeseed (Ton)"]["cost_ratio"])
 
-    P_gryka_skup     = gus["Gryka (Tona)"]["skup_pln_per_t"]
-    P_gryka_rhd      = P_gryka_skup * gus["Gryka (Tona)"]["retail_premium"]
-    C_gryka          = lambda: _price_band(P_gryka_skup * gus["Gryka (Tona)"]["cost_ratio"])
+    P_gryka_skup     = gus["Buckwheat (Ton)"]["skup_pln_per_t"]
+    P_gryka_rhd      = P_gryka_skup * gus["Buckwheat (Ton)"]["retail_premium"]
+    C_gryka          = lambda: _price_band(P_gryka_skup * gus["Buckwheat (Ton)"]["cost_ratio"])
 
-    P_ziem_skup      = gus["Ziemniaki (Decytona)"]["skup_pln_per_t"]      # zł/dt
-    P_ziem_rhd       = P_ziem_skup * gus["Ziemniaki (Decytona)"]["retail_premium"]
-    C_ziem           = lambda: _price_band(P_ziem_skup * gus["Ziemniaki (Decytona)"]["cost_ratio"])
+    P_ziem_skup      = gus["Potatoes (Deciton)"]["skup_pln_per_t"]      # zł/dt
+    P_ziem_rhd       = P_ziem_skup * gus["Potatoes (Deciton)"]["retail_premium"]
+    C_ziem           = lambda: _price_band(P_ziem_skup * gus["Potatoes (Deciton)"]["cost_ratio"])
 
-    SKP_WOL          = gus["Żywiec wołowy (Highlander)"]["skup_pln_per_kg"]
-    AVG_KG           = gus["Żywiec wołowy (Highlander)"]["avg_weight_kg"]
+    SKP_WOL          = gus["Beef Cattle (Highlander)"]["skup_pln_per_kg"]
+    AVG_KG           = gus["Beef Cattle (Highlander)"]["avg_weight_kg"]
     P_wol_skup       = SKP_WOL * AVG_KG                                   # per head
-    P_wol_rhd        = SKP_WOL * gus["Żywiec wołowy (Highlander)"]["retail_premium_per_kg"] * AVG_KG
-    C_wol            = lambda: _price_band(P_wol_skup * gus["Żywiec wołowy (Highlander)"]["cost_ratio"])
+    P_wol_rhd        = SKP_WOL * gus["Beef Cattle (Highlander)"]["retail_premium_per_kg"] * AVG_KG
+    C_wol            = lambda: _price_band(P_wol_skup * gus["Beef Cattle (Highlander)"]["cost_ratio"])
 
-    P_mleko_skup     = gus["Mleko krowie (HL)"]["skup_pln_per_hl"]
-    P_mleko_rhd      = P_mleko_skup * gus["Mleko krowie (HL)"]["retail_premium"]
-    C_mleko          = lambda: _price_band(P_mleko_skup * gus["Mleko krowie (HL)"]["cost_ratio"])
+    P_mleko_skup     = gus["Cow Milk (HL)"]["skup_pln_per_hl"]
+    P_mleko_rhd      = P_mleko_skup * gus["Cow Milk (HL)"]["retail_premium"]
+    C_mleko          = lambda: _price_band(P_mleko_skup * gus["Cow Milk (HL)"]["cost_ratio"])
 
-    P_jaja_skup      = gus["Jaja kurze (100 szt.)"]["skup_pln_per_100"]
-    P_jaja_rhd       = P_jaja_skup * gus["Jaja kurze (100 szt.)"]["retail_premium"]
-    C_jaja           = lambda: _price_band(P_jaja_skup * gus["Jaja kurze (100 szt.)"]["cost_ratio"])
+    P_jaja_skup      = gus["Chicken Eggs (100 pcs)"]["skup_pln_per_100"]
+    P_jaja_rhd       = P_jaja_skup * gus["Chicken Eggs (100 pcs)"]["retail_premium"]
+    C_jaja           = lambda: _price_band(P_jaja_skup * gus["Chicken Eggs (100 pcs)"]["cost_ratio"])
 
-    P_drob_skup      = gus["Drób rzeźny (KG)"]["skup_pln_per_kg"]
-    P_drob_rhd       = P_drob_skup * gus["Drób rzeźny (KG)"]["retail_premium"]
-    C_drob           = lambda: _price_band(P_drob_skup * gus["Drób rzeźny (KG)"]["cost_ratio"])
+    P_drob_skup      = gus["Broiler Poultry (KG)"]["skup_pln_per_kg"]
+    P_drob_rhd       = P_drob_skup * gus["Broiler Poultry (KG)"]["retail_premium"]
+    C_drob           = lambda: _price_band(P_drob_skup * gus["Broiler Poultry (KG)"]["cost_ratio"])
 
-    P_boksy          = gus["Wynajem boksów (konie)"]["monthly_pln"]
-    C_boksy          = lambda: _price_band(P_boksy * gus["Wynajem boksów (konie)"]["cost_ratio"])
+    P_boksy          = gus["Stable Box Rent (Horses)"]["monthly_pln"]
+    C_boksy          = lambda: _price_band(P_boksy * gus["Stable Box Rent (Horses)"]["cost_ratio"])
 
-    FUEL_PRICE       = gus["Paliwo rolnicze (litr)"]["price_pln"]
-    FEED_PRICE       = gus["Pasza (kg)"]["price_pln"]
-    FERT_PRICE       = gus["Nawóz (kg)"]["price_pln"]
+    FUEL_PRICE       = gus["Agricultural Fuel (liter)"]["price_pln"]
+    FEED_PRICE       = gus["Cattle Feed (kg)"]["price_pln"]
+    FERT_PRICE       = gus["Fertilizer (kg)"]["price_pln"]
 
     end_date   = datetime.now()
     start_date = end_date - timedelta(days=sim_days)
@@ -95,15 +95,15 @@ def generate_mock_data(session_id: str):
     rows = []
 
     # Buyer type pools by channel
-    RHD_BUYERS  = ["Osoba prywatna", "Restauracja lokalna", "Sklep ekologiczny", "Rynek targowy"]
-    SKUP_BUYERS = ["Skup rolny", "Przetwórnia", "Hurtownia spożywcza", "Zakład mięsny"]
-    B2B_BUYERS  = ["Właściciel konia", "Klub jeździecki", "Stadnina"]
+    RHD_BUYERS  = ["Private Individual", "Local Restaurant", "Eco-Shop", "Farmer's Market"]
+    SKUP_BUYERS = ["Agricultural Wholesale", "Processing Plant", "Food Wholesaler", "Meat Factory"]
+    B2B_BUYERS  = ["Horse Owner", "Equestrian Club", "Stud Farm"]
 
     def buyer_type(channel: str) -> str:
         if channel == "RHD":  return random.choice(RHD_BUYERS)
         if channel == "Skup": return random.choice(SKUP_BUYERS)
         if channel == "B2B":  return random.choice(B2B_BUYERS)
-        return "Koszt wewnętrzny"
+        return "Internal Expense"
 
     def add(date_str, product, qty, channel, unit_price, unit_cost, tx_type="INCOME"):
         rev  = round(qty * unit_price, 2)
@@ -114,7 +114,7 @@ def generate_mock_data(session_id: str):
 
     # ── DAY 0: Capital injection / startup investment ────────────────────────
     add(start_date.strftime("%Y-%m-%d"),
-        "Inwestycja startowa (stado, ziemia, infrastruktura)",
+        "Initial Capital Investment (herd, land, infrastructure)",
         1, "N/A", 0, abs(farm_config["initial_capital_pln"]), "EXPENSE")
 
     print(f"Generating {sim_days}-day simulation (targeting ~10 000 rows)…")
@@ -131,47 +131,47 @@ def generate_mock_data(session_id: str):
         # Rzepak harvest (late July)
         if m == 7 and d == 20:
             qty = round(RZEPAK_HA * 3.14 * random.uniform(0.85, 1.15), 1)
-            silos["Rzepak (Tona)"] = min(silo_cap, qty)
-            print(f"  [{ds}] Rzepak harvest: {silos['Rzepak (Tona)']:.1f} t")
+            silos["Rapeseed (Ton)"] = min(silo_cap, qty)
+            print(f"  [{ds}] Rapeseed harvest: {silos['Rapeseed (Ton)']:.1f} t")
 
         # Gryka harvest (mid-September)
         if m == 9 and d == 15:
             qty = round(GRYKA_HA * 1.29 * random.uniform(0.85, 1.15), 1)
-            silos["Gryka (Tona)"] = min(silo_cap, qty)
-            print(f"  [{ds}] Gryka harvest: {silos['Gryka (Tona)']:.1f} t")
+            silos["Buckwheat (Ton)"] = min(silo_cap, qty)
+            print(f"  [{ds}] Buckwheat harvest: {silos['Buckwheat (Ton)']:.1f} t")
 
         # Ziemniaki harvest (early October)
         if m == 10 and d == 5:
             qty = round(ZIEMNIAKI_HA * 310 * random.uniform(0.85, 1.15), 0)
-            silos["Ziemniaki (Decytona)"] = min(silo_cap * 10, qty)
-            print(f"  [{ds}] Ziemniaki harvest: {silos['Ziemniaki (Decytona)']:.0f} dt")
+            silos["Potatoes (Deciton)"] = min(silo_cap * 10, qty)
+            print(f"  [{ds}] Potatoes harvest: {silos['Potatoes (Deciton)']:.0f} dt")
 
         # Spring fertilisation (April) — bulk purchase
         if m == 4 and d == 1:
             fert_kg = arable_ha * 200
-            add(ds, "Zakup nawozów (wiosna)", fert_kg, "N/A", 0, FERT_PRICE, "EXPENSE")
+            add(ds, "Fertilizer Purchase (Spring)", fert_kg, "N/A", 0, FERT_PRICE, "EXPENSE")
 
         # Autumn fertilisation (September)
         if m == 9 and d == 1:
             fert_kg = arable_ha * 150
-            add(ds, "Zakup nawozów (jesień)", fert_kg, "N/A", 0, FERT_PRICE, "EXPENSE")
+            add(ds, "Fertilizer Purchase (Autumn)", fert_kg, "N/A", 0, FERT_PRICE, "EXPENSE")
 
         # ARiMR direct payments (15 November each year)
         if d == 15 and m == 11:
             total_ha = PASTURE_HA + arable_ha
             subsidy  = round(total_ha * random.uniform(850, 950), 2)
-            add(ds, "ARiMR Dopłaty bezpośrednie (UE)", 1, "N/A", subsidy, 0)
+            add(ds, "ARiMR Direct Subsidies (EU)", 1, "N/A", subsidy, 0)
 
         # Fuel excise refund (1 Feb & 1 Aug)
         if d == 1 and m in [2, 8]:
-            refund = round(arable_ha * 110 * gus["Paliwo rolnicze (litr)"]["refund_pln"], 2)
-            add(ds, "Zwrot podatku akcyzowego – paliwo", 1, "N/A", refund, 0)
+            refund = round(arable_ha * 110 * gus["Agricultural Fuel (liter)"]["refund_pln"], 2)
+            add(ds, "Excise Tax Refund - Fuel", 1, "N/A", refund, 0)
 
         # ════════════════════════════════════════════════════════════════════
         # QUARTERLY EVENTS
         # ════════════════════════════════════════════════════════════════════
         if d == 1 and m in [1, 4, 7, 10]:
-            add(ds, "Składka KRUS (ubezpieczenie rolnicze)", 1, "N/A", 0, 1742, "EXPENSE")
+            add(ds, "KRUS Insurance Contribution", 1, "N/A", 0, 1742, "EXPENSE")
 
         # ════════════════════════════════════════════════════════════════════
         # MONTHLY EVENTS (1st of month)
@@ -180,15 +180,15 @@ def generate_mock_data(session_id: str):
             # Stable rent - track occupancy
             rented = random.randint(int(STABLE_N * 0.75), STABLE_N)
             stables_occupied = rented   # update state
-            add(ds, "Wynajem boksów (konie)", rented, "B2B",
+            add(ds, "Stable Box Rent (Horses)", rented, "B2B",
                 _price_band(P_boksy), C_boksy())
 
             # Fixed monthly maintenance (energy, repairs, insurance)
-            add(ds, "Koszty stałe (energia, serwis, ubezp.)",
+            add(ds, "Fixed Costs (Energy, Service, Ins.)",
                 1, "N/A", 0, farm_config["monthly_maintenance_costs_pln"], "EXPENSE")
 
             # Veterinary visit
-            add(ds, "Wizyta weterynaryjna + leki",
+            add(ds, "Veterinary Visit + Meds",
                 1, "N/A", 0, random.randint(600, 3200), "EXPENSE")
 
             # Herd reproduction: calving season March–May
@@ -202,13 +202,13 @@ def generate_mock_data(session_id: str):
 
         # 1. Daily fuel consumption (tractors, machinery)
         daily_fuel_l = arable_ha * random.uniform(0.8, 2.5)
-        add(ds, "Paliwo rolnicze (litr)", round(daily_fuel_l, 1), "N/A",
+        add(ds, "Agricultural Fuel (liter)", round(daily_fuel_l, 1), "N/A",
             0, FUEL_PRICE, "EXPENSE")
 
         # 2. Daily feed for cattle (supplement to grazing)
         feed_per_cow = random.uniform(1.5, 4.0)   # kg supplement / cow / day
         total_feed   = round(current_cattle * feed_per_cow, 1)
-        add(ds, "Pasza dla bydła (kg)", total_feed, "N/A", 0, FEED_PRICE, "EXPENSE")
+        add(ds, "Cattle Feed (kg)", total_feed, "N/A", 0, FEED_PRICE, "EXPENSE")
 
         # ════════════════════════════════════════════════════════════════════
         # DAILY MILK (every day – batched to dairy pickup / local shop)
@@ -216,7 +216,7 @@ def generate_mock_data(session_id: str):
         dairy_cows = int(current_cattle * 0.35)
         milk_hl    = round(dairy_cows * random.uniform(0.10, 0.18), 2)  # HL/day
         channel    = "RHD" if milk_hl < 5 else "Skup"
-        add(ds, "Mleko krowie (HL)", milk_hl, channel,
+        add(ds, "Cow Milk (HL)", milk_hl, channel,
             _price_band(P_mleko_skup if channel == "Skup" else P_mleko_rhd),
             C_mleko())
 
@@ -225,7 +225,7 @@ def generate_mock_data(session_id: str):
         # ════════════════════════════════════════════════════════════════════
         egg_batches = random.randint(1, 6)   # units of 100 eggs
         channel     = "RHD" if egg_batches <= 2 else "Skup"
-        add(ds, "Jaja kurze (100 szt.)", egg_batches, channel,
+        add(ds, "Chicken Eggs (100 pcs)", egg_batches, channel,
             _price_band(P_jaja_skup if channel == "Skup" else P_jaja_rhd),
             C_jaja())
 
@@ -235,7 +235,7 @@ def generate_mock_data(session_id: str):
         if wd in [1, 3, 5] and 4 <= m <= 10:
             drob_kg = round(random.uniform(30, 150), 1)
             channel  = "RHD" if drob_kg < 50 else "Skup"
-            add(ds, "Drób rzeźny (KG)", drob_kg, channel,
+            add(ds, "Broiler Poultry (KG)", drob_kg, channel,
                 _price_band(P_drob_skup if channel == "Skup" else P_drob_rhd),
                 C_drob())
 
@@ -248,19 +248,19 @@ def generate_mock_data(session_id: str):
             # Higher sell probability closer to next harvest / spring
             sell_prob = 0.45 if m in [1, 2, 3, 4, 5, 6] else 0.25
             if random.random() < sell_prob:
-                if "Decytona" in crop:
+                if "Deciton" in crop:
                     qty = min(stock, round(random.uniform(10, 120), 0))
                     channel = "RHD" if qty <= 25 else "Skup"
                     add(ds, crop, qty, channel,
                         _price_band(P_ziem_skup if channel == "Skup" else P_ziem_rhd),
                         C_ziem())
-                elif "Rzepak" in crop:
+                elif "Rapeseed" in crop:
                     qty = min(stock, round(random.uniform(0.5, 8.0), 1))
                     channel = "RHD" if qty <= 2 else "Skup"
                     add(ds, crop, qty, channel,
                         _price_band(P_rzepak_skup if channel == "Skup" else P_rzepak_rhd),
                         C_rzepak())
-                elif "Gryka" in crop:
+                elif "Buckwheat" in crop:
                     qty = min(stock, round(random.uniform(0.3, 4.0), 1))
                     channel = "RHD" if qty <= 1 else "Skup"
                     add(ds, crop, qty, channel,
@@ -277,7 +277,7 @@ def generate_mock_data(session_id: str):
                 sell_qty = random.randint(1, 5)
                 sell_qty = min(sell_qty, current_cattle - min_herd)
                 channel  = "RHD" if sell_qty <= 2 else "Skup"
-                add(ds, f"Żywiec wołowy ({breed})", sell_qty, channel,
+                add(ds, f"Beef Cattle ({breed})", sell_qty, channel,
                     _price_band(P_wol_skup if channel == "Skup" else P_wol_rhd),
                     C_wol())
                 current_cattle -= sell_qty

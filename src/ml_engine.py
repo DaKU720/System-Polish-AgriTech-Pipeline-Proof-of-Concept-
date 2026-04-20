@@ -84,7 +84,7 @@ def run_ml_pipeline(df: pd.DataFrame) -> dict:
     skup_revenue = df.loc[df["Sales_Channel"] == "Skup", "Revenue"].sum() if "Sales_Channel" in df.columns else 0.0
     product_revenue = df[df["Transaction_Type"]=="INCOME"].groupby("Product")["Revenue"].sum().to_dict()
     
-    cattle_products = df[df["Product"].str.contains("wołowy|Wołowy", na=False)]
+    cattle_products = df[df["Product"].str.contains("Beef Cattle", na=False)]
     total_cattle_sold = cattle_products["Quantity"].sum()
 
     # Revenue trend: last 30 days vs prior 30 days

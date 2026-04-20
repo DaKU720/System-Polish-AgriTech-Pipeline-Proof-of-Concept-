@@ -3,9 +3,9 @@ import numpy as np
 from . import config
 
 VALID_BUYER_TYPES = {
-    "Osoba prywatna", "Restauracja lokalna", "Sklep ekologiczny", "Rynek targowy",
-    "Skup rolny", "Przetwórnia", "Hurtownia spożywcza", "Zakład mięsny",
-    "Właściciel konia", "Klub jeździecki", "Stadnina", "Koszt wewnętrzny",
+    "Private Individual", "Local Restaurant", "Eco-Shop", "Farmer's Market",
+    "Agricultural Wholesale", "Processing Plant", "Food Wholesaler", "Meat Factory",
+    "Horse Owner", "Equestrian Club", "Stud Farm", "Internal Expense",
 }
 
 VALID_TX_TYPES = {"INCOME", "EXPENSE"}
@@ -28,25 +28,25 @@ def clean_data(session_id: str, df: pd.DataFrame) -> pd.DataFrame:
         missing_buyer = df["Buyer_Type"].isna().sum()
         # Fill missing based on channel
         channel_defaults = {
-            "RHD":  "Osoba prywatna",
-            "Skup": "Skup rolny",
-            "B2B":  "Właściciel konia",
-            "N/A":  "Koszt wewnętrzny",
+            "RHD":  "Private Individual",
+            "Skup": "Agricultural Wholesale",
+            "B2B":  "Horse Owner",
+            "N/A":  "Internal Expense",
         }
         mask_nan = df["Buyer_Type"].isna()
         for ch, default in channel_defaults.items():
             df.loc[mask_nan & (df["Sales_Channel"] == ch), "Buyer_Type"] = default
-        df["Buyer_Type"] = df["Buyer_Type"].fillna("Koszt wewnętrzny")
+        df["Buyer_Type"] = df["Buyer_Type"].fillna("Internal Expense")
 
         # Flag unknown values
         invalid_buyer = ~df["Buyer_Type"].isin(VALID_BUYER_TYPES)
         if invalid_buyer.sum() > 0:
-            df.loc[invalid_buyer, "Buyer_Type"] = "Nieznany"
+            df.loc[invalid_buyer, "Buyer_Type"] = "Unknown"
         print(f"-> Fixed {missing_buyer} missing Buyer_Type records (filled by channel context).")
     elif "Buyer_Age" in df.columns:
         # Legacy support: rename column if old data is loaded
         df.rename(columns={"Buyer_Age": "Buyer_Type"}, inplace=True)
-        df["Buyer_Type"] = "Nieznany (migracja)"
+        df["Buyer_Type"] = "Unknown (Migration)"
         print("-> [MIGRATION] Renamed legacy Buyer_Age → Buyer_Type.")
 
     # ── 2. Fix Missing Quantity (NaN) ─────────────────────────────────────────
@@ -62,10 +62,9 @@ def clean_data(session_id: str, df: pd.DataFrame) -> pd.DataFrame:
         df["Sales_Channel"] = df["Sales_Channel"].fillna("Skup")
         print(f"-> Filled {missing_ch} missing Sales_Channel tags with default 'Skup'.")
 
-        # RHD law: cattle sold under RHD label must be ≤ 2 head per transaction
         rhd_cattle_mask = (
             (df["Sales_Channel"] == "RHD")
-            & (df["Product"].str.contains("Żywiec", na=False))
+            & (df["Product"].str.contains("Beef Cattle", na=False))
             & (df["Quantity"] > 2)
         )
         n_reverted = rhd_cattle_mask.sum()
@@ -79,8 +78,8 @@ def clean_data(session_id: str, df: pd.DataFrame) -> pd.DataFrame:
         missing_tx = df["Transaction_Type"].isna().sum()
         # Products that are always costs
         expense_keywords = [
-            "Paliwo", "Pasza", "KRUS", "Wizyta", "Koszty stałe",
-            "Nawóz", "Inwestycja startowa"
+            "Fuel", "Feed", "KRUS", "Veterinary", "Fixed Costs",
+            "Fertilizer", "Initial Capital"
         ]
         for kw in expense_keywords:
             mask = df["Product"].str.contains(kw, na=False) & df["Transaction_Type"].isna()

@@ -13,58 +13,58 @@ os.makedirs(CACHE_DIR, exist_ok=True)
 # These are real published values for Zachodniopomorskie / Polska 2024.
 # Used when no GUS_BDL_API_KEY is set or API is unreachable.
 GUS_2024_FALLBACK = {
-    "Rzepak (Tona)": {
+    "Rapeseed (Ton)": {
         "skup_pln_per_t": 1991.0,     # GUS: 199.08 zł/dt × 10
         "retail_premium": 1.20,        # +20% for direct retail
         "cost_ratio": 0.52,            # ~52% of sale price = production cost
         "seasonal_months": [8, 9, 10, 11, 12, 1, 2, 3],  # harvest Jul, sell Aug–Mar
     },
-    "Gryka (Tona)": {
+    "Buckwheat (Ton)": {
         "skup_pln_per_t": 1050.0,     # niche crop, 2024 regional estimate
         "retail_premium": 1.25,
         "cost_ratio": 0.48,
         "seasonal_months": [10, 11, 12, 1, 2, 3, 4],
     },
-    "Ziemniaki (Decytona)": {
+    "Potatoes (Deciton)": {
         "skup_pln_per_t": 93.26,      # GUS: 93.26 zł/dt
         "retail_premium": 2.56,        # targowisko: 238.54 zł/dt → ×2.56
         "cost_ratio": 0.45,
         "seasonal_months": [10, 11, 12, 1, 2, 3, 4, 5],
     },
-    "Żywiec wołowy (Highlander)": {
+    "Beef Cattle (Highlander)": {
         "skup_pln_per_kg": 11.16,     # GUS: 11.16 zł/kg żywiec wołowy
         "avg_weight_kg": 550,          # Highlander avg live weight
         "retail_premium_per_kg": 1.60, # premium for direct retail
         "cost_ratio": 0.55,
     },
-    "Mleko krowie (HL)": {
+    "Cow Milk (HL)": {
         "skup_pln_per_hl": 203.54,    # GUS: 203.54 zł/hl
         "retail_premium": 1.25,
         "cost_ratio": 0.42,
     },
-    "Jaja kurze (100 szt.)": {
+    "Chicken Eggs (100 pcs)": {
         "skup_pln_per_100": 62.0,     # estimate from regional data (44.4M eggs/year)
         "retail_premium": 1.35,
         "cost_ratio": 0.55,
     },
-    "Drób rzeźny (KG)": {
+    "Broiler Poultry (KG)": {
         "skup_pln_per_kg": 5.15,      # GUS: 5.15 zł/kg
         "retail_premium": 1.35,
         "cost_ratio": 0.52,
     },
-    "Wynajem boksów (konie)": {
+    "Stable Box Rent (Horses)": {
         "monthly_pln": 1300.0,        # market rate Zachodniopomorskie
         "cost_ratio": 0.22,
     },
     # Operating cost inputs
-    "Paliwo rolnicze (litr)": {
+    "Agricultural Fuel (liter)": {
         "price_pln": 5.80,            # diesel agro 2024 avg PLN/litr
         "refund_pln": 1.035,          # akcyza zwrot: limit × 1.035 PLN/litr
     },
-    "Nawóz (kg)": {
+    "Fertilizer (kg)": {
         "price_pln": 2.10,            # mocznik/sól potasowa avg 2024
     },
-    "Pasza (kg)": {
+    "Cattle Feed (kg)": {
         "price_pln": 1.45,            # mieszanka treściwa 2024
     },
 }
@@ -151,11 +151,11 @@ def get_prices(use_cache_hours: int = 168) -> dict:
             # Merge live data into fallback structure (update known fields)
             merged = dict(GUS_2024_FALLBACK)
             if "rzepak_pln_dt" in live:
-                merged["Rzepak (Tona)"]["skup_pln_per_t"] = live["rzepak_pln_dt"] * 10
+                merged["Rapeseed (Ton)"]["skup_pln_per_t"] = live["rzepak_pln_dt"] * 10
             if "mleko_pln_hl" in live:
-                merged["Mleko krowie (HL)"]["skup_pln_per_hl"] = live["mleko_pln_hl"]
+                merged["Cow Milk (HL)"]["skup_pln_per_hl"] = live["mleko_pln_hl"]
             if "zywiec_wol_pln_kg" in live:
-                merged["Żywiec wołowy (Highlander)"]["skup_pln_per_kg"] = live["zywiec_wol_pln_kg"]
+                merged["Beef Cattle (Highlander)"]["skup_pln_per_kg"] = live["zywiec_wol_pln_kg"]
             _save_cache({"prices": merged, "fetched_at": datetime.now(), "source": "GUS_BDL_API"})
             print(f"[GUS] Live API prices saved to cache.")
             return merged

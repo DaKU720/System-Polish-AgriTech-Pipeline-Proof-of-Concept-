@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-04-20 22:24",
+  "simulation_days": 730,
+  "cattle_current": 447,
+  "cattle_start": 300,
+  "cattle_breed": "Highlander",
+  "silos_final": {
+    "Rapeseed (Ton)": 0.0,
+    "Buckwheat (Ton)": 0.0,
+    "Potatoes (Deciton)": 0.0
+  },
+  "pasture_ha": 150,
+  "arable_ha": 50,
+  "stable_count": 20,
+  "stables_occupied_last": 17,
+  "stables_free": 3
+}
