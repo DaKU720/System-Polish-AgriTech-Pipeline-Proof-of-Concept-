@@ -1,2 +1,0 @@
-**AgriTech FinOps Intelligence Pipeline (Python, Machine Learning, GPT-4o)**
-Architected a stateful, event-driven data pipeline simulating enterprise-scale agriculture operations linked with live macroeconomic API streams. Designed a dual-regression Machine Learning causation engine and implemented a context-aware LLM reporting agent to translate complex time-series financial indicators into automated, business-tier managerial advisories. Focused on advanced feature engineering, automated ETL audits, and causal business logic.

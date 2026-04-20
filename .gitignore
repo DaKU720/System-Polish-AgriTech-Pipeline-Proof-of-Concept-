@@ -212,3 +212,7 @@ __marimo__/
 generated-data/
 data/
 reports/
+
+# Presentation and Resume folders
+prezentacja/
+Resume/
