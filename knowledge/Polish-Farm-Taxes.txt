@@ -1,0 +1,850 @@
+CD CENTRUM DORADZTWA ROLNICZEGO W BRWINOWIE
+ODDZIAŁ W POZNANIU
+PODATKI
+W DZIA Ł ALNO Ś CI ROLNICZEJ
+POZNAŃ 2024
+CENTRUM DORADZTWA ROLNICZEGO W BRWINOWIE
+ODDZIAŁ W POZNANIU
+PODATKI
+W DZIAŁALNOŚCI ROLNICZEJ
+Poznań 2024
+Centrum Doradztwa Rolniczego w Brwinowie
+Oddział w Poznaniu
+ISBN: 978-83-66823-30-3
+Wydanie II uzupełnione
+Opracowanie:
+Łukasz Bocheński, Oskar Wysocki
+Projekt okładki:
+Mariusz Gutowski
+Opracowanie graficzne i skład tekstu:
+Mariusz Gutowski
+Druk:
+Centrum Doradztwa Rolniczego w Brwinowie
+Oddział w Poznaniu
+61-659 Poznań, ul. Winogrady 63,
+tel. 61 823-20-81, e-mail: poznan@cdr.gov.pl, www.cdr.gov.pl
+Zlecenie nr 7/2024, nakład 500 egz.
+Spis treści
+WPROWADZENIE 5
+1.  PODATEK ROLNY 6
+1.1  PODSTAWA OPODATKOWANIA PODATKIEM ROLNYM 6
+1.2.  WARTOŚĆ PODATKU ZA ROK PODATKOWY, OBOWIĄZKI PODATKOWE 8
+1.3.  ZWOLNIENIA I ULGI PODATKOWE 9
+2.  PODATEK VAT 12
+2.1.  PODSTAWOWE POJĘCIA DOTYCZĄCE DZIAŁALNOŚCI ROLNICZEJ
+W MYŚL USTAWY O PODATKU OD TOWARÓW I USŁUG 12
+2.2.  ROLNIK RYCZAŁTOWY 14
+2.3.  WARUNKI PRZEJŚCIA Z RYCZAŁTU NA ZASADY OGÓLNE
+(REJESTRACJA) 15
+2.4. OBOWIĄZKI ROLNIKA – PODATNIKA VAT 16
+2.5. POWRÓT Z ZASAD OGÓLNYCH NA RYCZAŁT 17
+3.  PODATEK DOCHODOWY I PRZYCHODOWY 17
+3.1.  PODSTAWOWE POJĘCIA DOTYCZĄCE DZIAŁALNOŚCI ROLNICZEJ
+ORAZ DZIAŁÓW SPECJALNYCH PRODUKCJI ROLNEJ W MYŚL USTAWY
+O PODATKU DOCHODOWYM OD OSÓB FIZYCZNYCH 18
+3.2.  ZASADY USTALANIA DOCHODU Z DZIAŁÓW SPECJALNYCH
+PRODUKCJI ROLNEJ 20
+3.3.  RYCZAŁT EWIDENCJONOWANY W RAMACH ROLNICZEGO HANDLU
+DETALICZNEGO 21
+4.  PODATEK AKCYZOWY 24
+4.1.  WYMOGI FORMALNE DOTYCZĄCE ZWROTU PODATKU AKCYZOWEGO
+ZAWARTEGO W CENIE OLEJU NAPĘDOWEGO 24
+4.2.  TERMINY SKŁADANIA WNIOSKU O ZWROT ORAZ WYPŁATY
+PODATKU AKCYZOWEGO 25
+4.3. LIMIT ZWROTU PODATKU AKCYZOWEGO 25
+BIBLIOGRAFIA 27
+Wprowadzenie
+Rolnicy prowadzący działalność rolniczą, podobnie jak inne grupy spo-
+łeczne, podlegają opodatkowaniu, jednak przepisy prawne w tym zakresie
+znacznie różnią się od przepisów obowiązujących dla innych podmiotów
+gospodarczych funkcjonujących na rynku. Wynika to m.in. z faktu, że głów-
+nym czynnikiem produkcji jest ziemia, a działalność rolnicza cechuje się
+zazwyczaj niższą opłacalnością w stosunku do innych działalności gospo-
+darczych, gdzie efekty produkcyjne w dużej mierze determinują warunki
+klimatyczne.
+W Polsce działalność rolnicza jest opodatkowana kilkoma rodzajami po-
+datków. Są to przede wszystkim: podatek rolny, podatek od nieruchomo-
+ści, podatek od towarów i usług (VAT), podatek dochodowy z działów spe-
+cjalnych produkcji rolnej, podatek akcyzowy oraz ryczałt od przychodów
+ewidencjonowanych w ramach rolniczego handlu detalicznego.
+W publikacji przedstawiono zagadnienia związane: z opodatkowaniem
+majątku gospodarstwa rolnego, dochodów rolnika uzyskiwanych z tytu-
+łu prowadzonej działalności rolniczej oraz zasady rozliczania podatku VAT
+w obrocie środkami produkcji i produktami rolnymi. Wskazano definicje
+dotyczące przedmiotu opodatkowania, wymogi formalne i prawne zwią-
+zane z zasadami wystawiania dokumentów podatkowych, przysługujące
+ulgi i zwolnienia w oparciu o obecnie obowiązujące akty prawne w danym
+zakresie.
+Ponadto, zaprezentowano zagadnienia dotyczące działalności quasi-rol-
+niczych tj. działów specjalnych produkcji rolnej i rolniczego handlu deta-
+licznego w tym: dopuszczalne rozmiary oraz ilość prowadzonej produkcji
+i sprzedaży, zasady ustalania i rozliczania przychodów i dochodów oraz
+zwolnień i obowiązków podatkowych.
+5
+1. PODATEK ROLNY (PODATEK GRUNTOWY)
+Zagadnienia związane z opodatkowaniem gruntów gospodarstwa regu-
+luje ustawa z dnia 15 listopada 1984 r. o podatku rolnym. W myśl przepi-
+sów ustawy opodatkowaniu podatkiem rolnym podlegają gospodarstwa
+rolne, w których grunty sklasyfikowane w ewidencji gruntów i budynków
+jako użytki rolne, posiadają łączną powierzchnię przekraczającą 1 ha
+lub 1 ha przeliczeniowy. Grunty te stanowią własność lub znajdują się
+w posiadaniu osoby fizycznej, osoby prawnej albo jednostki organizacyj-
+nej, w tym spółki, nieposiadającej osobowości prawnej i nie są zajęte na
+prowadzenie działalności gospodarczej innej niż działalność rolnicza.
+Działalność rolnicza to produkcja roślinna i zwierzęca, w tym również pro-
+dukcja materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyj-
+nego, produkcja warzywnicza, roślin ozdobnych, grzybów uprawnych, sa-
+downictwa, hodowla i produkcja materiału zarodowego zwierząt, ptactwa
+i owadów użytkowych, produkcja zwierzęca typu przemysłowego fermowego
+oraz chów i hodowla ryb.
+Organem podatkowym właściwym w sprawach podatku rolnego
+jest wójt (burmistrz, prezydent miasta).
+1.1. Podstawa opodatkowania podatkiem rolnym
+Podstawę opodatkowania oblicza się następująco w zależności od formy
+użytków rolnych:
+y grunty gospodarstwa rolnego – liczba hektarów przeliczeniowych
+y
+ustalana jest na podstawie powierzchni, rodzajów i klas użytków
+rolnych wynikających z ewidencji gruntów i budynków oraz zalicze-
+nia do okręgu podatkowego (Tabela 1);
+y pozostałe grunty – liczba hektarów wynikająca z ewidencji gruntów
+y
+i budynków;
+− grunty pod stawami, grunty zadrzewione i zakrzewione na
+−
+użytkach rolnych, grunty pod rowami oraz grunty rolne zabu-
+dowane – bez względu na zaliczenie do okręgu podatkowego –
+przelicza się na hektary przeliczeniowe według następujących
+przeliczników:
+6
+− 1 ha gruntów pod stawami zarybionymi łososiem, trocią, gło-
+−
+wacicą, palią i pstrągiem oraz gruntów rolnych zabudowanych
+– 1 ha przeliczeniowy;
+− 1 ha gruntów pod stawami zarybionymi innymi gatunkami ryb,
+−
+gruntów pod stawami niezarybionymi, gruntów zadrzewio-
+nych i zakrzewionych na użytkach rolnych oraz gruntów pod
+rowami – 0,20 ha przeliczeniowego.
+Jeżeli nie można ustalić przelicznika powierzchni użytków rolnych na pod-
+stawie powyżej zaprezentowanej metodyki, przyjmuje się, że 1 ha fizyczny
+odpowiada 1 ha przeliczeniowemu.
+Tabela 1
+Przeliczniki powierzchni użytków rolnych
+Rodzaje
+użytków
+rolnych
+Grunty orne Łąki i pastwiska
+Okręgi
+podatkowe I II III IV I II III IV
+Klasy
+użytków
+rolnych
+Przeliczniki Przeliczniki
+I 1.95 1.80 1.65 1.45 1.75 1.60 1.45 1.35
+II 1.80 1.65 1.50 1.35 1.45 1.35 1.25 1.10
+IIIa 1.65 1.50 1.40 1.25
+III 1.25 1.15 1.05 0.95
+IIIb 1.35 1.25 1.15 1.00
+IVa 1.10 1.00 0.90 0.80
+IV 0.75 0.70 0.60 0.55
+IVb 0.80 0.75 0.65 0.60
+V 0.35 0.30 0.25 0.20 0.20 0.20 0.15 0.15
+VI 0.20 0.15 0.10 0.05 0.15 0.15 0.10 0.05
+Źródło: Ustawa z dnia 15 listopada 1984 r. o podatku rolnym.
+7
+1.2. Wartość podatku za rok podatkowy, obowiązki podatkowe
+Wartość podatku za dany rok podatkowy oblicza się następująco:
+y iloczyn 1 ha przeliczeniowego gruntów oraz równowartości pie-
+y
+niężnej 2,5 q żyta – dla gruntów gospodarstwa rolnego,
+y iloczyn 1 ha gruntów oraz równowartości pieniężnej 5 q żyta – dla
+y
+pozostałych gruntów.
+Średnią cenę skupu żyta ustala się na podstawie komunikatu Prezesa
+Głównego Urzędu Statystycznego, ogłaszanego w Dzienniku Urzędowym
+Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 20
+października roku poprzedzającego rok podatkowy.
+Obowiązek podatkowy powstaje od pierwszego dnia miesiąca następują-
+cego po miesiącu, w którym zaistniały okoliczności uzasadniające powsta-
+nie tego obowiązku, a wygasa ostatniego dnia miesiąca, w którym prze-
+stały istnieć okoliczności uzasadniające ten obowiązek. Jeżeli obowiązek
+podatkowy powstał lub wygasł w ciągu roku, podatek rolny za ten rok usta-
+la się proporcjonalnie do liczby miesięcy, w których istniał ten obowiązek.
+W przypadku, gdy kwota podatku nie przekracza 100 zł, podatek jest płat-
+ny jednorazowo w terminie płatności pierwszej raty.
+Podatek rolny od gruntów położonych na terenach podgórskich i górskich
+obniża się o 30% dla gruntów klas I, II, IIIa, III i IIIb, a o 60% dla gruntów klas
+IVa, IV i IVb. Za miejscowości położone na terenach podgórskich i górskich
+uważa się miejscowości, w których co najmniej 50% użytków rolnych jest
+położonych powyżej 350 m nad poziomem morza. Wykaz tych miejsco-
+wości w danym województwie ustala sejmik województwa.
+Osoby fizyczne są obowiązane złożyć właściwemu organowi podatkowe-
+mu informacje o gruntach, sporządzone na formularzach według ustalo-
+nego wzoru1, w terminie 14 dni od dnia zaistnienia okoliczności uzasad-
+niających powstanie albo wygaśnięcie obowiązku podatkowego w zakre-
+sie podatku rolnego, lub o zaistnieniu zmian.
+1 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 30 maja 2019 r. w sprawie wzorów infor-
+macji o gruntach i deklaracji na podatek rolny Na podstawie art. 6a ust. 11 ustawy z dnia
+15 listopada 1984 r. o podatku rolnym (t.j. Dz. U. z 2020 r. poz. 333, z 2023 r. poz. 1450).
+8
+Podatek rolny na rok podatkowy od osób fizycznych ustala w drodze de-
+cyzji, organ podatkowy właściwy ze względu na miejsce położenia grun-
+tów. Podatek jest płatny w ratach proporcjonalnych do czasu trwania obo-
+wiązku podatkowego w terminach do dnia 15 marca, 15 maja, 15 września
+i 15 listopada roku podatkowego.
+1.3. Zwolnienia i ulgi podatkowe
+Zwolnieniu z płatności podatku rolnego podlegają m.in.:
+y użytki rolne klasy V, VI i VIz oraz grunty zadrzewione i zakrzewione
+y
+ustanowione na użytkach rolnych;
+y grunty położone w pasie drogi granicznej;
+y
+y grunty orne, łąki i pastwiska objęte melioracją (w roku, w którym
+y
+uprawy zostały zniszczone wskutek robót drenarskich);
+y grunty przeznaczone na utworzenie nowego gospodarstwa rolne-
+y
+go lub powiększenie już istniejącego do powierzchni nieprzekra-
+czającej 100 ha (okres zwolnienia wynosi 5 lat2), będące: przedmio-
+tem prawa własności lub prawa użytkowania wieczystego, nabyte
+w drodze umowy sprzedaży, umowy o oddanie gruntów w użytko-
+wanie wieczyste lub wchodzące w skład Zasobu Własności Rolnej
+Skarbu Państwa, objęte w trwałe zagospodarowanie;
+y grunty gospodarstw rolnych powstałe z zagospodarowania nie-
+y
+użytków – na okres 5 lat, licząc od roku następnego po zakończeniu
+zagospodarowania;
+y grunty gospodarstw rolnych otrzymane w drodze wymiany lub
+y
+scalenia – na 1 rok następujący po roku, w którym dokonano wy-
+miany lub scalenia gruntów;
+Po upływie okresu zwolnienia, o którym mowa w pkt 4, 5 i 6, sto-
+suje się ulgę w podatku rolnym, polegającą na obniżeniu podatku
+w pierwszym roku o 75% i o 50% w drugim roku.
+y grunty gospodarstw rolnych, na których zaprzestano produkcji
+y
+2 licząc od pierwszego dnia miesiąca następującego po miesiącu, w którym zawarto umo-
+wę sprzedaży gruntów lub prawa wieczystego użytkowania, ustanowiono prawo wie-
+czystego użytkowania gruntów lub objęto grunty w trwałe zagospodarowanie w drodze
+umowy.
+9
+rolnej, z tym że zwolnienie może dotyczyć nie więcej niż 20% po-
+wierzchni użytków rolnych gospodarstwa rolnego, lecz nie więcej
+niż 10 ha – na okres nie dłuższy niż 3 lata, w stosunku do tych sa-
+mych gruntów;
+y użytki ekologiczne;
+y
+y grunty zajęte przez zbiorniki wody służące do zaopatrzenia ludno-
+y
+ści w wodę;
+y grunty pod wałami przeciwpowodziowymi i grunty położone
+y
+w międzywałach;
+y grunty wpisane do rejestru zabytków, pod warunkiem ich zagospo-
+y
+darowania i utrzymania zgodnie z przepisami o ochronie zabytków
+i opiece nad zabytkami;
+y grunty stanowiące działki przyzagrodowe członków rolniczych
+y
+spółdzielni produkcyjnych, którzy osiągnęli wiek emerytalny, są
+inwalidami zaliczonymi do I albo II grupy, niepełnosprawnymi
+o znacznym lub umiarkowanym stopniu niepełnosprawności, oso-
+bami całkowicie niezdolnymi do pracy w gospodarstwie rolnym
+albo niezdolnymi do samodzielnej egzystencji;
+y grunty położone na terenie rodzinnego ogrodu działkowego, z wy-
+y
+jątkiem będących w posiadaniu podmiotów innych niż działkowcy
+lub stowarzyszenia ogrodowe w rozumieniu ustawy z dnia 13 grud-
+nia 2013 r. o rodzinnych ogrodach działkowych (t.j. Dz. U. z 2017 r.
+poz. 2176);
+y uczelnie; zwolnienie nie dotyczy gruntów przekazanych w posiada-
+y
+nie podmiotom innym niż uczelnie;
+y publiczne i niepubliczne jednostki organizacyjne objęte systemem
+y
+oświaty oraz prowadzące je organy, w zakresie gruntów zajętych na
+działalność oświatową;
+y instytuty naukowe i pomocnicze jednostki naukowe Polskiej Aka-
+y
+demii Nauk, w odniesieniu do gruntów, które są niezbędne do re-
+alizacji zadań
+y prowadzący zakłady pracy chronionej spełniające warunek, o któ-
+y
+rym mowa w art. 28 ust. 1 pkt 1 lit. b ustawy z dnia 27 sierpnia 1997 r.
+o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób nie-
+10
+pełnosprawnych (t.j. Dz. U. z 2021 r. poz. 573, 1981);
+y instytuty badawcze3
+y
+.
+Do ulg podatkowych zalicza się:
+y ulgę inwestycyjną – przyznawaną po zakończeniu inwestycji z ty-
+y
+tułu wydatków poniesionych na:
+− budowę lub modernizację budynków inwentarskich służących
+−
+do chowu, hodowli i utrzymywania zwierząt gospodarskich oraz
+obiektów służących ochronie środowiska,
+− zakup i zainstalowanie: deszczowni, urządzeń melioracyjnych
+−
+i urządzeń zaopatrzenia gospodarstwa w wodę, urządzeń do
+wykorzystywania na cele produkcyjne naturalnych źródeł ener-
+gii (wiatru, biogazu, słońca, spadku wód) – jeżeli wydatki te nie
+zostały sfinansowane w całości lub w części z udziałem środków
+publicznych.
+Ulga inwestycyjna polega na odliczeniu (w okresie do 15 lat) – w wyso-
+kości 25% udokumentowanych rachunkami nakładów inwestycyjnych od
+należnego podatku rolnego od gruntów położonych na terenie gminy,
+w której została dokonana inwestycja.
+Podatnik traci prawo do odliczenia od podatku rolnego niewykorzystanej
+kwoty ulgi inwestycyjnej w przypadku sprzedaży obiektów i urządzeń, od
+których przyznana została ta ulga.
+Kwota ulgi inwestycyjnej niewykorzystana przez podatnika przechodzi na
+jego następców, jeżeli gospodarstwo rolne zostało nabyte stosownie do prze-
+pisów o ubezpieczeniu społecznym rolników lub w drodze dziedziczenia.
+y ulgę z tytułu klęsk żywiołowych;
+y
+W przypadku wprowadzenia stanu klęski żywiołowej, o którym mowa
+w ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (t.j. Dz. U.
+z 2017 r. poz. 1897), organ podatkowy może przyznać podatnikowi ulgę
+w podatku rolnym przez zaniechanie jego ustalenia albo poboru w całości
+lub w części, w wysokości zależnej od rozmiarów strat spowodowanych
+klęską w gospodarstwie rolnym.
+3 Pełna lista: Rozdział 4 Zwolnienia i ulgi podatkowe, ustawy z dnia 15 listopada 1984 r.
+o podatku rolnym
+11
+Przy przyznawaniu ulg i ustalaniu ich wysokości uwzględnia się wysokość
+otrzymanego odszkodowania z tytułu ubezpieczenia ustawowego.
+Ulgę przyznaje się za ten rok podatkowy, w którym został wprowadzony
+stan klęski żywiołowej. Jeżeli stan klęski żywiołowej wprowadzony został
+po zapłaceniu podatku za dany rok, ulgę stosuje się w następnym roku
+podatkowym.
+2. PODATEK VAT
+Podatek VAT (ang. Value Added Tax) jest podatkiem od wartości dodanej,
+dlatego pobierany jest na każdym kolejnym etapie obrotu towarami lub
+usługami (podatek obrotowy). Jego konstrukcja zakłada brak kaskadowe-
+go nakładania się podatku poprzez zastosowanie mechanizmu odliczenia
+podatku pobranego w poprzednich etapach obrotu.
+Obowiązek rozliczania podatku od towarów i usług wprowadzony został
+ustawą z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o po-
+datku akcyzowym (Dz. U. z 1993 r. Nr 11, poz. 50 z późn. zm.). Przystąpienie
+Polski do Unii Europejskiej, a co za tym idzie konieczność dostosowania
+polskiego systemu podatkowego do rozwiązań stosowanych w UE wy-
+musiła na polskich władzach uregulowanie tej kwestii w nowej ustawie
+o podatku od towarów i usług. W ten sposób, nowa ustawa o podatku od
+towarów i usług została uchwalona w dniu 11 marca 2004 roku (t.j. Dz. U.
+z 2024 r. poz. 361 z późn. zm.)
+2.1. Podstawowe pojęcia dotyczące działalności rolniczej
+w myśl ustawy o podatku od towarów i usług
+Działalność rolnicza w myśl art. 2 pkt. 15 ustawy o podatku od towarów
+i usług z dnia 11 marca 2004 r. obejmuje: produkcję roślinną i zwierzęcą,
+w tym również produkcję materiału siewnego, szkółkarskiego, hodowla-
+nego oraz reprodukcyjnego, produkcję warzywniczą, gruntową, szklar-
+niową i pod folią, produkcję roślin ozdobnych, grzybów uprawnych i sa-
+downiczą, chów, hodowlę i produkcję materiału zarodowego zwierząt,
+ptactwa i owadów użytkowych, produkcję zwierzęcą typu przemysłowe-
+12
+go lub fermowego oraz chów i hodowlę ryb i innych organizmów żyjących
+w wodzie, a także uprawy w szklarniach i ogrzewanych tunelach foliowych,
+uprawy grzybów i ich grzybni, uprawy roślin „in vitro”, fermową hodowlę
+i chów drobiu rzeźnego i nieśnego, wylęgarnie drobiu, hodowlę i chów
+zwierząt futerkowych i laboratoryjnych, chów i hodowlę dżdżownic, en-
+tomofagów i jedwabników, prowadzenie pasiek oraz chów i hodowlę
+innych zwierząt poza gospodarstwem rolnym oraz sprzedaż produktów
+gospodarki leśnej i łowieckiej, z wyjątkiem drewna okrągłego z drzew tro-
+pikalnych (CN 4403 41 00 i 4403 49) oraz bambusa (CN 1401 10 00), a także
+świadczenie usług rolniczych.
+Gospodarstwo rolne – gospodarstwo rolne w rozumieniu przepisów
+o podatku rolnym (art. 2 pkt. 16 ustawy o podatku od towarów i usług
+z dnia 11 marca 2004 r.).
+Rolnik ryczałtowy – rolnik dokonujący dostawy produktów rolnych po-
+chodzących z własnej działalności rolniczej lub świadczący usługi rolnicze,
+korzystający ze zwolnienia od podatku na podstawie art. 43 ust. 1 pkt 3,
+z wyjątkiem rolnika obowiązanego na podstawie odrębnych przepisów
+do prowadzenia ksiąg rachunkowych; (art. 2 pkt. 19 ustawy o podatku od
+towarów i usług z dnia 11 marca 2004 r.).
+Produkty rolne – towary pochodzące z własnej działalności rolniczej rol-
+nika ryczałtowego oraz towary, o których mowa w art. 20 ust. 1c i 1d usta-
+wy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (t.j.
+Dz. U. z 2022 r. poz. 2647 z późn. zm. art. 2 pkt. 20 ustawy o podatku od
+towarów i usług z dnia 11 marca 2004 r.)
+Usługi rolnicze:
+a) usługi związane z rolnictwem oraz chowem i hodowlą zwierząt,
+z wyłączeniem usług weterynaryjnych (PKWiU ex 01.6), z wyłącze-
+niem usług podkuwania koni i prowadzenia schronisk dla zwierząt
+gospodarskich (PKWiU ex 01.62.10.0);
+b) usługi związane z leśnictwem (PKWiU ex 02.40.10), z wyłączeniem
+patrolowania lasów wykonywanego na zlecenie przez jednostki
+inne niż leśne (PKWiU ex 02.40.10.3);
+c) usługi wspomagające rybactwo (PKWiU ex 03.00.7), z wyłączeniem
+usług związanych z rybołówstwem morskim (PKWiU 03.00.71.0);
+13
+d) wynajem i dzierżawa maszyn i urządzeń rolniczych, bez obsługi
+(PKWiU 77.31.10.0), (art. 2 pkt. 21 ustawy o podatku od towarów
+i usług z dnia 11 marca 2004 r.).
+Podatnicy podatku od towarów i usług – zgodnie z art. 15 ustawy o po-
+datku od towarów i usług z dnia 11 marca 2004 r. – są to: osoby praw-
+ne, jednostki organizacyjne niemające osobowości prawnej oraz osoby
+fizyczne, wykonujące samodzielnie działalność gospodarczą, bez względu
+na cel lub rezultat takiej działalności.
+2.2. Rolnik ryczałtowy
+Z mocy ustawy rolnik jest podatnikiem zwolnionym i nie ma obowiązku
+rozliczać się z tytułu podatku VAT z urzędem skarbowym. Rolnik ryczał-
+towy jest obowiązany natomiast przechowywać oryginały faktur VAT RR
+oraz kopie oświadczeń4 przez okres 5 lat, licząc od końca roku, w którym
+wystawiono fakturę. Obowiązek ten obejmuje również faktury VAT RR
+i oświadczenia wystawione w formie elektronicznej.
+Rolnik ryczałtowy korzystający ze zwolnienia wynikającego z art. 43 ust. l
+pkt 3, w zakresie prowadzonej działalności rolniczej dostarczający produk-
+ty rolne, jest zwolniony z obowiązku:
+− wystawiania faktur,
+−
+− prowadzenia ewidencji dostaw i nabyć towarów i usług,
+−
+− składania w urzędzie skarbowym deklaracji podatkowej.
+−
+− dokonania zgłoszenia rejestracyjnego, o którym mowa w art. 96.
+−
+Na podstawie art. 115 ustawy o podatku od towarów i usług rolnikowi ry-
+czałtowemu dokonującemu dostawy produktów rolnych dla podatnika po-
+datku, który rozlicza ten podatek, przysługuje zryczałtowany zwrot podatku
+z tytułu nabywania niektórych środków produkcji dla rolnictwa opodatko-
+wanych tym podatkiem. Kwota zryczałtowanego zwrotu podatku jest wy-
+płacana rolnikowi ryczałtowemu przez nabywcę produktów rolnych.
+4 Faktura VAT RR powinna również zawierać oświadczenie dostawcy produktów rolnych
+w brzmieniu: „Oświadczam, że jestem rolnikiem ryczałtowym zwolnionym od podatku od
+towarów i usług na podstawie art. 43 ust. 1 pkt 3 ustawy o podatku od towarów i usług”.
+14
+Stawka zryczałtowanego zwrotu podatku, o którym mowa powyżej wy-
+nosi 6,5%5 kwoty należnej z tytułu dostawy produktów rolnych pomniej-
+szonej o kwotę zryczałtowanego zwrotu podatku.
+Podatnik zarejestrowany jako podatnik VAT czynny nabywający produkty
+rolne od rolnika ryczałtowego wystawia w dwóch egzemplarzach fakturę
+dokumentującą nabycie tych produktów. Oryginał faktury jest przekazy-
+wany dostawcy – rolnikowi.
+Faktura VAT RR może być, za zgodą dostawcy, wystawiana, podpisywana
+i przesyłana w formie elektronicznej. W tym przypadku zamiast czytelnymi
+podpisami lub podpisami osób uprawnionych do wystawienia i otrzyma-
+nia faktury VAT RR w formie elektronicznej, określonymi w ust. 2 pkt 13,
+faktura powinna być opatrzona, odpowiednio przez dostawcę i nabywcę,
+kwalifikowanym podpisem elektronicznym. Przez przekazanie dostawcy
+oryginału faktury VAT RR rozumie się jej przesłanie w formie elektronicznej.
+2.3. Warunki przejścia z ryczałtu na zasady ogólne (rejestracja)
+Przejście na zasady ogólne opodatkowania VAT rolnika ryczałtowego, nastę-
+puje w momencie rozpoczęcia wykonania pierwszej czynności podlegającej
+opodatkowaniu podatkiem od towarów i usług a tym samym prowadzenia
+ewidencji kupna i sprzedaży towarów i usług umożliwiającej sporządzenie
+deklaracji dla potrzeb podatku od towarów i usług.
+Rolnik ryczałtowy nie ma obowiązku,
+ale zalecane jest dokonanie zgłoszenia rejestracyjnego
+w urzędzie skarbowym na formularzu VAT-R
+Zgodnie z art. 96 ustawy z dnia 11 marca 2004 r. o podatku od towarów
+i usług, podmioty, o których mowa w art. 15 (osoby prawne, jednostki or-
+ganizacyjne niemające osobowości prawnej oraz osoby fizyczne, wykonu-
+jące samodzielnie działalność gospodarczą, bez względu na cel lub rezul-
+tat takiej działalności), mogą, przed dniem wykonania pierwszej czynności
+podlegającej opodatkowaniu podatkiem od towarów i usług, złożyć na-
+czelnikowi urzędu skarbowego zgłoszenie rejestracyjne.
+5 Art. 146ef. 3. ustawy o podatku od towarów i usług.” – stawka zryczałtowanego zwrotu
+podatku, w 2024 roku wynosi 7 %
+15
+Zgłoszenia rejestracyjnego należy dokonać najpóźniej dzień przed wyko-
+naniem pierwszej czynności podlegającej opodatkowaniu podatkiem od
+towarów usług. W tym celu należy wypełnić formularz VAT-R.
+Zgłoszenia rejestracyjnego należy dokonać w urzędzie skarbowym właści-
+wym ze względu na miejsce prowadzenia działalności rolniczej, jeżeli dzia-
+łalność rolnicza prowadzona jest na terenie dwóch lub więcej urzędów
+skarbowych – w urzędzie skarbowym właściwym ze względu na siedzibę
+rolnika, a jeżeli rolnik nie ma siedziby − w urzędzie skarbowym właściwym
+ze względu na miejsce zamieszkania rolnika. (art. 17 ust. 1 ustawy z dnia 29
+sierpnia 1997 r. – Ordynacja podatkowa).
+Naczelnik urzędu skarbowego rejestruje podatnika i potwierdza jego za-
+rejestrowanie jako „podatnika VAT czynnego”.
+Jeżeli dane zawarte w zgłoszeniu rejestracyjnym ulegną zmianie, podatnik
+jest obowiązany zgłosić zmianę do naczelnika urzędu skarbowego w ter-
+minie 7 dni, licząc od dnia, w którym nastąpiła zmiana.
+2.4. Obowiązki rolnika – podatnika VAT
+Rolnik rozliczający podatek od towarów i usług na zasadach ogólnych
+w zakresie prowadzonej działalności rolniczej jest zobowiązany m.in. do:
+− opodatkowania dokonywanych przez siebie sprzedaży określony-
+−
+mi stawkami VAT,
+− dokumentowania sprzedaży fakturami VAT (zasady oraz wymogi
+−
+formalne dotyczące wystawiania faktur VAT zawarte są w Dziale
+XI ustawy z dnia 11 marca 2004r. o podatku od towarów i usług)
+− prowadzenia ewidencji kupna i sprzedaży,
+−
+− rozliczania podatku VAT w ramach deklaracji podatkowej – JPK_
+−
+VAT (JPK_VAT z deklaracją to dokument elektroniczny, który skła-
+da się z dwóch części. Obejmuje zarówno ewidencję VAT (zestaw
+informacji o zakupach i sprzedaży, która wynika z ewidencji VAT
+przedsiębiorcy za dany okres), jak i deklarację VAT (deklarację VAT-7
+i VAT-7K)
+− przechowywania oryginałów faktur VAT przez okres 5 lat, licząc
+−
+16
+od końca roku, w którym wystawiono fakturę, (faktury ustruktury-
+zowane są przechowywane w Krajowym Systemie e-Faktur przez
+okres 10 lat, licząc od końca roku, w którym zostały wystawione)
+2.5. Powrót z zasad ogólnych na ryczałt
+Rolnik, który zrezygnował ze zwolnienia związanego z systemem ryczał-
+towego zwrotu podatku VAT (zamiana statusu rolnika ryczałtowego na
+rolnika rozliczającego się na zasadach ogólnych), może ponownie skorzy-
+stać ze zwolnienia w ramach ryczałtowego zwrotu podatku VAT, ale do-
+piero po upływie 3 lat od daty rezygnacji ze zwolnienia (zarejestrowania
+jako „podatnika VAT czynnego”). W tym celu należy zawiadomić pisem-
+nie, w formie aktualizacji danych zgłoszenia rejestracyjnego (ponownie
+na formularzu VAT-R), naczelnika urzędu skarbowego przed początkiem
+miesiąca (kwartału), od którego podatnicy ci ponownie chcą skorzystać ze
+zwolnienia. Naczelnik urzędu skarbowego rejestruje podatnika i potwier-
+dza jego zarejestrowanie – jako „podatnika VAT zwolnionego”.
+WAŻNE!
+Na podstawie art. 99 ust. 11B deklaracje, składa się wyłącznie za po-
+mocą środków komunikacji elektronicznej zgodnie z wzorem do-
+kumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005r.
+o informatyzacji działalności podmiotów realizujących zadania publiczne
+(Dz. U. z 2021 r. poz. 2070), który obejmuje deklarację i ewidencję, o której
+mowa w art. 109 ust. 3. Dokument elektroniczny, o którym mowa w zda-
+niu pierwszym, jest przesyłany w sposób określony w przepisach wyda-
+nych na podstawie art. 193a § 3 Ordynacji podatkowej i zgodnie z wyma-
+ganiami określonymi w tych przepisach (art. 99 ust. 11C ustawy o podatku
+od towarów i usług)
+3. PODATEK DOCHODOWY I PRZYCHODOWY
+W myśl art. 2. ust. 1. pkt 1 przepisów ustawy z dnia 26 lipca 1991 r. o po-
+datku dochodowym od osób fizycznych nie stosuje się do przychodów
+z działalności rolniczej, z wyjątkiem przychodów z działów specjalnych
+produkcji rolnej.
+17
+3.1.  Podstawowe pojęcia dotyczące działalności rolniczej
+oraz działów specjalnych produkcji rolnej w myśl ustawy
+o podatku dochodowym od osób fizycznych
+Działalność rolnicza, w rozumieniu ust. 1 pkt 1 ww. ustawy, jest działal-
+ność polegająca na wytwarzaniu produktów roślinnych lub zwierzęcych
+w stanie nieprzetworzonym (naturalnym) z własnych upraw albo hodowli
+lub chowu, w tym również produkcja materiału siewnego, szkółkarskiego,
+hodowlanego oraz reprodukcyjnego, produkcja warzywnicza gruntowa,
+szklarniowa i pod folią, produkcja roślin ozdobnych, grzybów uprawnych
+i sadownicza, hodowla i produkcja materiału zarodowego zwierząt, ptac-
+twa i owadów użytkowych, produkcja zwierzęca typu przemysłowo-fer-
+mowego oraz hodowla ryb, a także działalność, w której minimalne okresy
+przetrzymywania zakupionych zwierząt i roślin, w trakcie których nastę-
+puje ich biologiczny wzrost, wynoszą co najmniej:
+y miesiąc – w przypadku roślin,
+y
+y 16 dni – w przypadku wysokointensywnego tuczu specjalizowane-
+y
+go gęsi lub kaczek,
+y 6 tygodni – w przypadku pozostałego drobiu rzeźnego,
+y
+y 2 miesiące – w przypadku pozostałych zwierząt
+y
+− licząc od dnia nabycia.
+−
+W myśl ww. ustawy, art. 21. ust. 1 pkt 47d oraz 116, zwolnieniu przedmio-
+towemu od podatku dochodowego podlegają m.in.:
+y dotacje, subwencje, dopłaty i inne nieodpłatne świadczenia lub
+y
+świadczenia częściowo odpłatne, otrzymane na cele związane
+z działalnością rolniczą z budżetu państwa, budżetów jednostek sa-
+morządu terytorialnego, od agencji rządowych, agencji wykonaw-
+czych lub ze środków pochodzących od rządów państw obcych,
+organizacji międzynarodowych lub międzynarodowych instytucji
+finansowych;
+y dopłaty bezpośrednie stosowane w ramach Wspólnej Polityki Rol-
+y
+nej Unii Europejskiej, otrzymane na podstawie odrębnych przepi-
+sów.
+18
+Działami specjalnymi produkcji rolnej są: uprawy w szklarniach
+i ogrzewanych tunelach foliowych, uprawy grzybów i ich grzybni,
+uprawy roślin „in vitro”, fermowa hodowla i chów drobiu rzeźnego
+i nieśnego, wylęgarnie drobiu, hodowla i chów zwierząt futerkowych
+i laboratoryjnych, hodowla dżdżownic, hodowla entomofagów, hodowla
+jedwabników, prowadzenie pasiek oraz hodowla i chów innych zwierząt
+poza gospodarstwem rolnym.
+Działów specjalnych produkcji rolnej nie stanowią: uprawy, hodowla
+i chów zwierząt w rozmiarach nieprzekraczających wielkości określonych
+w załączniku nr 2 do ustawy, a zaprezentowane w tabeli 2.
+Tabela 2
+Wybrane rodzaje i rozmiary produkcji rolnej niepodlegające
+opodatkowaniu w ramach działów specjalnych produkcji rolnej
+Lp. Rodzaj uprawy i produkcji Powierzchnia/obsada
+1. Uprawy w szklarniach ogrzewanych poniżej 25 m2
+2. Uprawy w szklarniach nieogrzewanych poniżej 25 m2
+3. Uprawy w tunelach foliowych ogrzewanych poniżej 50 m2
+4. Uprawy grzybów i ich grzybni poniżej25 m2
+5. Drób rzeźny poniżej 100 szt.
+6. Drób nieśny poniżej 80 szt.
+7. Nutrie, króliki poniżej 50 szt. samic
+stada podstawowego
+8. Pasieki poniżej 80 rodzin
+9.
+Hodowla i chów innych zwierząt
+poza gospodarstwem rolnym
+krowy
+cielęta
+bydło rzeźne (z wyjątkiem opasów)
+tuczniki
+prosięta i warchlaki
+chów i hodowla owiec
+tucz owiec
+poniżej 5 szt.
+poniżej 10 szt.
+poniżej 10 szt.
+poniżej 50 szt.
+poniżej 50 szt.
+poniżej 10 szt.
+poniżej 15 szt.
+Źródło: Opracowanie własne na podstawie ustawy o podatku dochodowym od osób
+fizycznych.
+19
+3.2.  Zasady ustalania dochodu z działów specjalnych
+produkcji rolnej
+Dochód z działów specjalnych produkcji rolnej ustala się na podstawie:
+1) prowadzonych ksiąg rachunkowych;
+Dochodem (stratą) z działów specjalnych produkcji rolnej jest różnica po-
+między przychodem z tytułu prowadzenia tych działów a poniesionymi
+kosztami uzyskania, powiększona o wartość przyrostu stada zwierząt na
+koniec roku podatkowego w porównaniu ze stanem na początek roku
+i pomniejszona o wartość ubytków w tym stadzie w ciągu roku podatko-
+wego.
+Podatnicy ustalający dochód na podstawie prowadzonych ksiąg (KPiR
+bądź ksiąg rachunkowych), informacje o działach specjalnych są obowią-
+zani wykazywać na druku PIT/DS. Informację tę, należy dołączyć do zezna-
+nia PIT-36 bądź PIT-36L.
+2) norm szacunkowych;
+Dochód z działów specjalnych produkcji rolnej, jeżeli podatnik nie prowa-
+dzi ksiąg, o których mowa w art. 15, ustawy o podatku dochodowym od
+osób fizycznych, ustala się przy zastosowaniu norm szacunkowych do-
+chodu z określonej powierzchni upraw lub jednostki produkcji zwierzęcej,
+określonych w załączniku nr 2 do ww. ustawy. Normy szacunkowe docho-
+du rocznego, stosuje się od jednostek powierzchni upraw lub innych jed-
+nostek rodzajów produkcji.
+Jeżeli w ciągu rocznego cyklu produkcji na tej samej powierzchni są pro-
+wadzone różne uprawy, dla których są ustalane różne normy szacunkowe
+dochodu, dochód z każdego rodzaju uprawy oblicza się, przy zastosowa-
+niu właściwej dla niej normy, proporcjonalnie do liczby miesięcy, w któ-
+rych była prowadzona taka uprawa, wliczając w to okres przygotowania
+do zaprowadzenia tej uprawy.
+Rolnik ma obowiązek:
+y zawiadomić właściwego naczelnika urzędu skarbowego w terminie
+y
+siedmiu dni o rozpoczęciu w ciągu roku podatkowego prowadze-
+nia działów specjalnych produkcji rolnej. W tym celu należy złożyć
+20
+deklaracje PIT-6, o rodzajach i rozmiarach zamierzonej produkcji
+w danym roku;
+y zawiadomić, również w terminie siedmiu dni, właściwy urząd skar-
+y
+bowy o zaistnieniu zmian w prowadzonej produkcji w stosunku do
+podanej w deklaracji oraz o zaprzestaniu lub rozpoczęciu w ciągu
+roku eksploatacji obiektów umożliwiających całoroczny cykl pro-
+dukcji;
+y złożyć w urzędzie skarbowym w terminie do 20 stycznia roku po-
+y
+datkowego deklarację PIT–6, o rodzajach i rozmiarach zamierzonej
+produkcji w roku podatkowym.
+y odprowadzania zaliczek na podatek dochodowy w wysokości okre-
+y
+ślonej w decyzji urzędu skarbowego (do 20. dnia miesiąca następ-
+nego (np. zaliczka za luty opłacana do 20 marca), za grudzień - do
+20 stycznia roku następnego).
+Zaliczki na poczet podatku dochodowego z tytułu prowadzenia działów
+specjalnych produkcji rolnej podatnicy są obowiązani opłacać już od dnia
+rozpoczęcia prowadzenia działu specjalnego, określonego w PIT-6, a nie
+od daty uzyskania z tego tytułu dochodu, gdyż podstawą do ustalenia za-
+liczek jest zawsze rozmiar zamierzonej działalności.
+3.3.  Ryczałt ewidencjonowany w ramach rolniczego handlu
+detalicznego
+Od 1 stycznia 2017 r. obowiązuje ustawa dot. rolniczego handlu detalicz-
+nego (Dz.U. z 2016 r. poz. 1961). Nowe przepisy ułatwiają rolnikom sprze-
+daż żywności wytworzonej we własnym gospodarstwie. Obejmuje ona
+zarówno nieprzetworzone, jak i przetworzone produkty roślinne (owoce,
+warzywa, zioła) i zwierzęce (mleko, mięso, jaja), a także przetwory roślinno-
+-zwierzęce z własnych upraw, bądź chowu. Rolnik może wytwarzać szynki,
+kiełbasy, pasztety, śmietanę, masło, ser, chleby, miody, dżemy, soki, prze-
+twory z owoców i warzyw, pierogi, itp. i sprzedać je odbiorcy końcowemu.
+W dniu 04.02.2022 roku weszła w życie Ustawa o zmianie niektórych
+ustaw w celu ułatwienia prowadzenia przez rolników rolniczego handlu
+detalicznego (Dz.U. z 2022 r. poz. 138), w ramach którego możliwe jest
+m.in. przetwórstwo, także na rzecz zakładów prowadzących handel de-
+21
+taliczny z przeznaczaniem dla konsumenta finalnego, w tym sklepów,
+restauracji, stołówek i innych placówek o podobnej charakterystyce, zlo-
+kalizowanych na ograniczonym obszarze. Obszar ten obejmuje wyłącznie
+terytorium Rzeczypospolitej Polskiej, z tym, że w przypadku żywności bę-
+dącej produktem pochodzenia zwierzęcego oraz żywności zawierającej
+jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty
+pochodzenia zwierzęcego - wyłącznie obszar województwa, w którym
+ma miejsce prowadzenie produkcji tej żywności w ramach rolniczego
+handlu detalicznego lub na obszarach powiatów lub miast stanowiących
+siedzibę wojewody lub sejmiku województwa, sąsiadujących z tym woje-
+wództwem. Warunkiem jest to, że taka żywność musi pochodzić w całości
+lub części z własnej uprawy, hodowli lub chowu, a sprzedaż odbywa się
+z zachowaniem konkretnych, udokumentowanych limitów.
+Działalność ta ma podstawową zaletę, że umożliwia sprzedaż szerokiego
+asortymentu produktów żywnościowych, jak np. przetworów, których nie
+można zbywać w formie sprzedaży bezpośredniej. Jednakże, jak wspo-
+mniano wcześniej, wielkość sprzedaży jest limitowana rozporządzeniem
+Ministra Rolnictwa i Rozwoju Wsi z dnia 12 września 2022 r. sprawie mak-
+symalnej ilości żywności zbywanej w ramach rolniczego handlu detalicz-
+nego do zakładów prowadzących handel detaliczny z przeznaczeniem dla
+konsumenta finalnego oraz zakresu i sposobu jej dokumentowania (Dz.U.
+z 2022 r. poz. 1971).
+Z powyższego rozporządzenia wynika m.in., że w ramach rolniczego han-
+dlu detalicznego można zbyć rocznie m.in.: 6700 l soków owocowych,
+3400 kg dżemów, 10000 l olejów, 4000 kg placków ziemniaczanych, 2300
+kg wołowego mięsa mielonego, 1400 kg gotowych posiłków (potraw)
+z produktów pochodzenia zwierzęcego.
+Rolniczy handel detaliczny to jedna z form handlu detalicznego, dla której
+w polskim porządku prawnym przyjęto odrębne uregulowania przede
+wszystkim w zakresie preferencji podatkowej.
+W kontekście przepisów podatkowych obowiązują następujące kryteria
+będące podstawą zwolnienia przychodów z rolniczego handlu detalicz-
+nego od podatku dochodowego. Zwolnieniu podlegają przychody ze
+sprzedaży przetworzonych w sposób inny niż przemysłowy produktów
+22
+roślinnych i zwierzęcych, z wyłączeniem przetworzonych produktów ro-
+ślinnych i zwierzęcych uzyskanych w ramach działów specjalnych pro-
+dukcji rolnej oraz produktów opodatkowanych podatkiem akcyzowym,
+do kwoty 100 000 zł rocznie, przy czym m.in.:
+y przetwarzania produktów roślinnych i zwierzęcych i ich sprzedaż
+y
+nie może się odbywać przy zatrudnieniu osób na podstawie umów
+o pracę, umów zlecenia, umów o dzieło oraz innych umów o po-
+dobnym charakterze (Wyjątki: ubój zwierząt rzeźnych i obróbka po-
+ubojowa tych zwierząt, w tym również rozbiór, podział i klasyfika-
+cja mięsa, przemiał zbóż, wytłoczenie oleju lub soku oraz sprzedaż
+podczas wystaw, festynów, targów, kiermaszy);
+y ilość produktów roślinnych lub zwierzęcych pochodzących z wła-
+y
+snej uprawy, hodowli lub chowu, użytych do produkcji danego
+produktu stanowi co najmniej 50% tego produktu, z wyłączeniem
+wody;
+y za produkt roślinny pochodzący z własnej uprawy uważa się rów-
+y
+nież mąkę, kaszę, płatki, otręby, oleje i soki wytworzone z surowców
+pochodzących z własnej uprawy;
+y prowadzona jest ewidencja sprzedaży żywności produktów roślin-
+y
+nych i zwierzęcych odrębnie za każdy rok podatkowy, która zawie-
+ra co najmniej: numer kolejnego wpisu, datę uzyskania przychodu,
+kwotę przychodu, przychód narastająco od początku roku oraz ro-
+dzaj i ilość przetworzonych produktów. Dzienne przychody muszą
+być ewidencjonowane w dniu sprzedaży.
+Ponadto, uzyskany w roku podatkowym przychód ze sprzedaży ww. pro-
+duktów, powyżej limitu 100 000 zł należy opodatkować ryczałtem 2%
+od przychodów ewidencjonowanych, pod warunkiem złożenia przez rol-
+nika stosownego oświadczenia do urzędu skarbowego.
+23
+4. PODATEK AKCYZOWY
+4.1. Wymogi formalne dotyczące zwrotu podatku akcyzowego
+zawartego w cenie oleju napędowego6
+Podatek akcyzowy doliczany jest do większości nośników energii jak gaz,
+prąd czy paliwa płynne.
+Przepisy ustawy z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego
+zawartego w cenie oleju napędowego wykorzystywanego do produkcji
+rolne (t.j. Dz. U. z 2023 r. poz. 1948), umożliwiają rolnikowi złożenie wnio-
+sku o zwrot podatku akcyzowego zawartego w cenie oleju napędowego
+wykorzystanego do produkcji rolnej do wysokości limitu zwrotu.
+Wniosek, którego wzór określono w rozporządzenie ministra rolnictwa
+i rozwoju wsi z dnia 26 stycznia 2024 r. w sprawie wzoru wniosku o zwrot
+podatku akcyzowego zawartego w cenie oleju napędowego wykorzysty-
+wanego do produkcji rolnej, składa się do wójta, burmistrza (prezydenta
+miasta) właściwego ze względu na miejsce położenia gruntów będących
+w posiadaniu lub współposiadaniu tego producenta rolnego (w tym dzier-
+żawcy).
+Do wniosku załącza się:
+y faktury VAT bądź ich kopie stanowiące dowód zakupu oleju napę-
+y
+dowego w okresie 6 miesięcy poprzedzających miesiąc złożenia
+wniosku,
+y dokument wydany przez kierownika biura powiatowego Agencji
+y
+Restrukturyzacji i Modernizacji Rolnictwa zawierający informacje
+o średniej rocznej liczbie świń oraz liczbie dużych jednostek prze-
+liczeniowych bydła, owiec, kóz i koni będących w posiadaniu pro-
+ducenta rolnego, w odniesieniu do każdej siedziby stada tego pro-
+ducenta, w ostatnim dniu każdego miesiąca roku poprzedzającego
+rok, w którym został złożony wniosek o zwrot podatku.
+6 Podstawowe informacje oraz akty prawne dotyczące zwrotu podatku akcyzowego
+dostępne są na stronie internetowej MRiRW https://www.gov.pl/web/rolnictwo/zwrot-
+podatku-akcyzowego
+24
+Zwrot podatku akcyzowego przysługuje do gruntów gospodarstwa
+przeznaczonych pod produkcję rolną dlatego wykluczone ze zwrotu
+są grunty na których zaprzestano produkcji rolnej lub zajęte na
+prowadzenie działalności gospodarczej.
+Wójt, burmistrz (prezydent miasta) właściwy ze względu na miejsce poło-
+żenia gruntów będących w posiadaniu lub współposiadaniu producenta
+rolnego przyznaje, na wniosek tego producenta, w drodze decyzji, zwrot
+podatku (decyzja wydawana jest w terminie do 30 dni od dnia złożenia
+wniosku).
+4.2.  Terminy składania wniosku o zwrot oraz wypłaty podatku
+akcyzowego
+Wniosek o zwrot podatku składa się w terminach od dnia 1 lutego do ostat-
+niego dnia lutego i od dnia 1 sierpnia do dnia 31 sierpnia danego roku.
+Wypłata zwrotu podatku przyznanego na podstawie decyzji nastę-
+puje w terminach:
+− od dnia 1 kwietnia do dnia 30 kwietnia – jeżeli wnioski o zwrot
+−
+podatku zostały złożone w terminie od dnia 1 lutego do ostatnie-
+go dnia lutego,
+− od dnia 1 października do dnia 29 października – jeżeli wnioski
+−
+o zwrot podatku zostały złożone w terminie od dnia 1 sierpnia do
+dnia 31 sierpnia.
+4.3. Limit zwrotu podatku akcyzowego
+Kwotę zwrotu podatku akcyzowego ustala się jako iloczyn ilości oleju
+napędowego zakupionego do produkcji rolnej, wynikającej z faktur VAT
+oraz stawki zwrotu do 1 litra określonej w rozporządzeniu Rady Ministrów
+z dnia 7 grudnia 2023 r. w sprawie stawki zwrotu podatku akcyzowego
+zawartego w cenie oleju napędowego wykorzystywanego do produkcji
+rolnej na 1 litr oleju w 2024 r. (Dz. U. 2023 poz. 2674), z tym, że kwota zwro-
+tu podatku nie może być wyższa niż suma:
+1) kwoty stanowiącej iloczyn stawki zwrotu na 1 litr oleju napędowego
+(1,46 zł/l), liczby 110 oraz powierzchni użytków rolnych będących
+25
+w posiadaniu lub współposiadaniu producenta rolnego, wskazanej
+w ewidencji gruntów i budynków jako użytki rolne według stanu na
+dzień 1 lutego danego roku,
+2) kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju na-
+pędowego (1,46 zł/l), liczby 4 oraz średniej rocznej liczby świń będą-
+cych w posiadaniu producenta rolnego w roku poprzedzającym rok,
+w którym został złożony wniosek o zwrot podatku, oraz
+3) kwoty stanowiącej iloczyn stawki zwrotu podatku na 1 litr oleju na-
+pędowego (1,46 zł/l), liczby 40 oraz średniej rocznej liczby dużych
+jednostek przeliczeniowych bydła, kóz, owiec oraz koni będących
+w posiadaniu producenta rolnego w roku poprzedzającym rok,
+w którym został złożony wniosek o zwrot podatku.
+26
+Bibliografia:
+1. Ustawa z dnia 15 listopada 1984r. o podatku rolnym (t.j. Dz. U. z 2024 r.
+2. 3. 4. poz. 1176).
+Ustawa z dnia 11 marca 2004 r o podatku od towarów i usług (t.j. Dz.
+U. z 2024 r. poz. 361 z późn. zm.).
+Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycz-
+nych (t.j. Dz. U. z 2024 r. poz. 226 z późn. zm.).
+Ustawa z dnia 16 listopada 2016 r. o zmianie niektórych ustaw w celu
+ułatwienia sprzedaży żywności przez rolników (Dz.U. z 2016 r. poz.
+1961).
+5. Ustawa z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu
+ułatwienia sprzedaży żywności przez rolników do sklepów i restaura-
+cji (Dz. U. z 2018 r. poz. 2242).
+6. Ustawa z dnia 15 grudnia 2021 r. o zmianie niektórych ustaw w celu
+ułatwienia prowadzenia przez rolników rolniczego handlu detaliczne-
+go (Dz. U. z 2022 r. poz. 138).
+7. Ustawa z dnia 10 marca 2006 r o zwrocie podatku akcyzowego za-
+wartego w cenie oleju napędowego wykorzystywanego do produkcji
+rolnej (t.j. Dz. U. z 2023 r. poz. 1948).
+8. Ustawa z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (t.j. Dz. U.
+z 2023 r. poz. 2383, 2760, z 2024 r. poz. 879.)
+9. Tatka M., Wysocki O., Żok K., Bocheński Ł. Podatek VAT w rolnictwie.
+CDR w Brwinowie Oddział w Poznaniu 2013.
+10. Pieczyński B., Gradka I. Podatki w gospodarstwie rolnym. CDR w Brwi-
+nowie Oddział w Radomiu 2013.
+11. Internet: https://www.gov.pl/web/rolnictwo/zwrot-podatku-akcyzowego.
+27

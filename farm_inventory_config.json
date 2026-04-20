@@ -1,0 +1,24 @@
+{
+  "farm_name": "Rancho Zachodniopomorskie",
+  "location": "Zachodniopomorskie",
+  "simulation_days": 730,
+  "initial_capital_pln": -1500000,
+  "livestock": {
+    "cattle_breed": "Highlander",
+    "cattle_count": 300,
+    "cattle_diet": "Grass-fed",
+    "cattle_purchase_price_pln": 3500,
+    "cattle_sell_price_avg_pln": 6500
+  },
+  "services": {
+    "horse_stables_count": 20,
+    "horse_stable_monthly_rent_pln": 1200
+  },
+  "land": {
+    "pasture_hectares": 150,
+    "arable_hectares": 50,
+    "arable_crops": ["Rzepak (Tona)", "Gryka (Tona)", "Ziemniaki (Decytona)"],
+    "silo_capacity_tons": 250
+  },
+  "monthly_maintenance_costs_pln": 15000
+}
